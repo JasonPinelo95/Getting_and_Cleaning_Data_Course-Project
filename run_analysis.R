@@ -64,6 +64,5 @@ tidy_data<-tbl_df(selected_df)
 tidy_data<-arrange(tidy_data,subject_labels)
 
 tidy_data<-tidy_data %>% group_by(subject_labels,activity_labels) %>% summarise_all(mean)
-write.csv(tidy_data,"./tidy_data.csv",row.names = FALSE)
-
+write.table(tidy_data,"./tidy_data.txt",row.names = FALSE)
 
