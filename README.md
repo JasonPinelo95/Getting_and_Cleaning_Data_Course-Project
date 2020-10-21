@@ -9,6 +9,6 @@
 3. Changes the `activity_labels` column content for descriptive names instead of numbers.
 4. Changes the feature columns names to be more readable.
 5. Creates independent tidy data set with the average of each variable for each activity and each subject, stores the result in a variable called `tidy_data`.
-6. Export the tidy data data set to a csv file called `tidy_data.csv`in the current working directory.
+6. Export the tidy data data set to a csv file called `tidy_data.txt`in the current working directory.
 
 
