@@ -1,4 +1,4 @@
-# Getting_and_Cleaning_Data_Course-Project
+# Getting and Cleaning Data Course-Project
 
 # Raw Data
 
