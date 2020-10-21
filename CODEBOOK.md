@@ -22,8 +22,8 @@
 
 ## Identififiers
 The first two columns are Identifiers.
-* Subject: the ID of the Subject, 30 subjects in total
-* Activity: the Name of the Activity performed by the subject, 6 categories in total. 
+* subject_labels: the ID of the Subject, 30 subjects in total
+* activity_labels: the Name of the Activity performed by the subject, 6 categories in total. 
 
 ## Features
 You can see the complete measurement list, provided in the zip I mentioned before, even though I put below the complete name list I included in the final tidy data set, in short, the values were measured by sensors in the cellphones, the Samsung Galaxy S to be specific. 66 features in total.
